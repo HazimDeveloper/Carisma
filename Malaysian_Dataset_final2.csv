@@ -1,0 +1,99 @@
+ID,Brand,Name,Price,Car_Type,Car_Category,Seats,Boot_Capacity,Boot_Category,Fuel_Capacity,Fuel_Category,Engine_Type,Total_Displacement_CC,Image,Info,Road_tax
+1,Perodua,Axia AV,49500,Hatchback,1,5,265,1,36,1,"1KR-VE, DOHC, 12V, Electronic Fuel Injection (EFi) with VVT-i",998,images/CarSpec/Axia/Axia-AV.png,https://www.perodua.com.my/our-models/hatchback/axia.html,20
+2,Perodua,Axia SE,44000,Hatchback,1,5,265,1,36,1,"1KR-VE, DOHC, 12V, Electronic Fuel Injection (EFi) with VVT-i",998,images/CarSpec/Axia/Axia-SE.png,https://www.perodua.com.my/our-models/hatchback/axia.html,20
+3,Perodua,Axia X,40000,Hatchback,1,5,265,1,36,1,"1KR-VE, DOHC, 12V, Electronic Fuel Injection (EFi) with VVT-i",998,images/CarSpec/Axia/Axia-X.png,https://www.perodua.com.my/our-models/hatchback/axia.html,20
+4,Perodua,Axia G,38600,Hatchback,1,5,265,1,36,1,"1KR-VE, DOHC, 12V, Electronic Fuel Injection (EFi) with VVT-i",998,images/CarSpec/Axia/Axia-G.png,https://www.perodua.com.my/our-models/hatchback/axia.html,20
+5,Perodua,Axia E,22000,Hatchback,1,5,260,1,33,1,"1KR-VE, DOHC, 12V, Electronic Fuel Injection (EFi) with VVT-i",998,images/CarSpec/Axia/Axia-E.png,https://www.perodua.com.my/our-models/hatchback/axia.html,20
+6,Perodua,Bezza AV,49980,Sedan,2,5,508,3,36,1,1NR-VE,1329,images/CarSpec/Bezza/Bezza-AV.png,https://www.perodua.com.my/our-models/sedan/bezza.html,70
+7,Perodua,Bezza X,43980,Sedan,2,5,508,3,36,1,1NR-VE,1329,images/CarSpec/Bezza/Bezza-X.png,https://www.perodua.com.my/our-models/sedan/bezza.html,70
+8,Perodua,Bezza G,36580,Sedan,2,5,508,3,36,1,1KR-VE,998,images/CarSpec/Bezza/Bezza-G.png,https://www.perodua.com.my/our-models/sedan/bezza.html,20
+9,Perodua,Bezza G (Manual),34580,Sedan,2,5,508,3,36,1,1KR-VE,998,images/CarSpec/Bezza/Bezza-G.png,https://www.perodua.com.my/our-models/sedan/bezza.html,20
+10,Perodua,Myvi AV,59900,Hatchback,1,5,277,1,36,1,"2NR-VE, DOHC with DUAL VVT-i",1496,images/CarSpec/Myvi/Myvi-AV.png,https://www.perodua.com.my/our-models/hatchback/myvi.html,90
+11,Perodua,Myvi H,54900,Hatchback,1,5,277,1,36,1,"2NR-VE, DOHC with DUAL VVT-i",1496,images/CarSpec/Myvi/Myvi-H.png,https://www.perodua.com.my/our-models/hatchback/myvi.html,90
+12,Perodua,Myvi X,50900,Hatchback,1,5,277,1,36,1,"2NR-VE, DOHC with DUAL VVT-i",1496,images/CarSpec/Myvi/Myvi-X.png,https://www.perodua.com.my/our-models/hatchback/myvi.html,90
+13,Perodua,Myvi G,48500,Hatchback,1,5,277,1,36,1,"1NR-VE, DOHC with DUAL VVT-i",1329,images/CarSpec/Myvi/Myvi-G.png,https://www.perodua.com.my/our-models/hatchback/myvi.html,70
+14,Perodua,Myvi G (Without PSDA),46500,Hatchback,1,5,277,1,36,1,"1NR-VE, DOHC with DUAL VVT-i",1329,images/CarSpec/Myvi/Myvi-G (without PSDA).png,https://www.perodua.com.my/our-models/hatchback/myvi.html,70
+15,Perodua,Ativa TURBO AV (2-Tone Special Metallic Black Roof),73400,SUV,3,5,303,2,36,1,1KR-VE TURBO,998,images/CarSpec/Ativa/Ativa-TURBO-AV (2-Tone).png,https://www.perodua.com.my/our-models/suv/ativa.html,20
+16,Perodua,Ativa TURBO AV (Special Metallic),73100,SUV,3,5,303,2,36,1,1KR-VE TURBO,998,images/CarSpec/Ativa/Ativa-TURBO-AV (Special).png,https://www.perodua.com.my/our-models/suv/ativa.html,20
+17,Perodua,Ativa TURBO AV (Metallic),72600,SUV,3,5,303,2,36,1,1KR-VE TURBO,998,images/CarSpec/Ativa/Ativa-TURBO-AV (Metallic).png,https://www.perodua.com.my/our-models/suv/ativa.html,20
+18,Perodua,Ativa TURBO H (Special Metallic),67800,SUV,3,5,303,2,36,1,1KR-VE TURBO,998,images/CarSpec/Ativa/Ativa-TURBO-H (Special).png,https://www.perodua.com.my/our-models/suv/ativa.html,20
+19,Perodua,Ativa TURBO H (Metallic),67300,SUV,3,5,303,2,36,1,1KR-VE TURBO,998,images/CarSpec/Ativa/Ativa-TURBO-H (Metallic).png,https://www.perodua.com.my/our-models/suv/ativa.html,20
+20,Perodua,Ativa TURBO X (Metallic),62500,SUV,3,5,303,2,36,1,1KR-VE TURBO,998,images/CarSpec/Ativa/Ativa-TURBO-X (Metallic).png,https://www.perodua.com.my/our-models/suv/ativa.html,20
+21,Perodua,Alza AV,75500,MPV,4,7,498,2,43,2,"2NR-VE, 4 Cylinders, DOHC EFI with DUAL VVT-i",1496,images/CarSpec/Alza/Alza-AV.png,https://www.perodua.com.my/our-models/mpv/new-alza.html,90
+22,Perodua,Alza H,68000,MPV,4,7,498,2,43,2,"2NR-VE, 4 Cylinders, DOHC EFI with DUAL VVT-i",1496,images/CarSpec/Alza/Alza-H.png,https://www.perodua.com.my/our-models/mpv/new-alza.html,90
+23,Perodua,Alza X,62500,MPV,4,7,498,2,43,2,"2NR-VE, 4 Cylinders, DOHC EFI with DUAL VVT-i",1496,images/CarSpec/Alza/Alza-X.png,https://www.perodua.com.my/our-models/mpv/new-alza.html,90
+24,Perodua,Aruz AV,77900,SUV,3,7,514,3,45,2,"2NR-VE, 4 cylinders, DOHC with DUAL VVT-i",1496,images/CarSpec/Aruz/Aruz-AV.png,https://www.perodua.com.my/our-models/suv/aruz.html,90
+25,Perodua,Aruz X,72900,SUV,3,7,514,3,45,2,"2 NR-VE, 4 cylinders, DOHC with DUAL VVT-i",1496,images/CarSpec/Aruz/Aruz-X.png,https://www.perodua.com.my/our-models/suv/aruz.html,90
+26,Proton,Saga Standard MT,34800,Sedan,2,5,420,2,40,2,"4 Cylinders In-Line, 16 Valve DOHC, VVT",1332,images/CarSpec/Saga/Saga-SMT.png,https://www.proton.com/en/models/saga,70
+27,Proton,Saga Standard AT,38800,Sedan,2,5,420,2,40,2,"4 Cylinders In-Line, 16 Valve DOHC, VVT",1332,images/CarSpec/Saga/Saga-SAT.png,https://www.proton.com/en/models/saga,70
+28,Proton,Saga Premium AT,41800,Sedan,2,5,420,2,40,2,"4 Cylinders In-Line, 16 Valve DOHC, VVT",1332,images/CarSpec/Saga/Saga-PAT.png,https://www.proton.com/en/models/saga,70
+29,Proton,Saga Premium S AT,44800,Sedan,2,5,420,2,40,2,"4 Cylinders In-Line, 16 Valve DOHC, VVT",1332,images/CarSpec/Saga/Saga-PSAT.png,https://www.proton.com/en/models/saga,70
+30,Proton,Persona Standard CVT,47800,Sedan,2,5,510,3,40,2,"4 Cylinders In-Line, 16 Valve DOHC, VVT",1597,images/CarSpec/Persona/Persona-SCVT.png,https://www.proton.com/en/models/persona,90
+31,Proton,Persona Executive CVT,53300,Sedan,2,5,510,3,40,2,"4 Cylinders In-Line, 16 Valve DOHC, VVT",1597,images/CarSpec/Persona/Persona-PCVT.png,https://www.proton.com/en/models/persona,90
+32,Proton,Persona Premium CVT,58300,Sedan,2,5,510,3,40,2,"4 Cylinders In-Line, 16 Valve DOHC, VVT",1597,images/CarSpec/Persona/Persona-ECVT.png,https://www.proton.com/en/models/persona,90
+33,Proton,Iriz Standard CVT,42800,Hatchback,1,5,215,1,40,2,"4 Cylinders In-Line, 16 Valve DOHC, VVT",1332,images/CarSpec/Iriz/Iriz-SCVT.png,https://www.proton.com/en/models/iriz,70
+34,Proton,Iriz Executive CVT,50300,Hatchback,1,5,215,1,40,2,"4 Cylinders In-Line, 16 Valve DOHC, VVT",1597,images/CarSpec/Iriz/Iriz-ECVT.png,https://www.proton.com/en/models/iriz,90
+35,Proton,Iriz Active CVT,57300,Hatchback,1,5,215,1,40,2,"4 Cylinders In-Line, 16 Valve DOHC, VVT",1597,images/CarSpec/Iriz/Iriz-ACVT.png,https://www.proton.com/en/models/iriz,90
+36,Proton,S70 Executive ,73800,Sedan,2,5,500,3,50,3,"3 Cylinders In-Line, 12 Valve DOHC, Turbocharged",1477,images/CarSpec/S70/S70-E.png,https://www.proton.com/en/models/protons70,90
+37,Proton,S70 Premium,79800,Sedan,2,5,500,3,50,3,"3 Cylinders In-Line, 12 Valve DOHC, Turbocharged",1477,images/CarSpec/S70/S70-P.png,https://www.proton.com/en/models/protons70,90
+38,Proton,S70 Flagship,89800,Sedan,2,5,500,3,50,3,"3 Cylinders In-Line, 12 Valve DOHC, Turbocharged",1477,images/CarSpec/S70/S70-F.png,https://www.proton.com/en/models/protons70,90
+39,Proton,S70 Flagship X,94800,Sedan,2,5,500,3,50,3,"3 Cylinders In-Line, 12 Valve DOHC, Turbocharged",1477,images/CarSpec/S70/S70-FX.png,https://www.proton.com/en/models/protons70,90
+40,Proton,X50 Standard,86300,SUV,3,5,330,2,45,2,"3 Cylinders In-Line, 12 Valve DOHC, Turbocharged",1477,images/CarSpec/X50/X50-S.png,https://www.proton.com/en/models/protonx50,90
+41,Proton,X50 Executive,93300,SUV,3,5,330,2,45,2,"3 Cylinders In-Line, 12 Valve DOHC, Turbocharged",1477,images/CarSpec/X50/X50-E.png,https://www.proton.com/en/models/protonx50,90
+42,Proton,X50 Premium,101800,SUV,3,5,330,2,45,2,"3 Cylinders In-Line, 12 Valve DOHC, Turbocharged",1477,images/CarSpec/X50/X50-P.png,https://www.proton.com/en/models/protonx50,90
+43,Proton,X50 TGDI Flagship,113300,SUV,3,5,330,2,45,2,"3 Cylinders In-Line, 12 Valve DOHC, Turbocharged",1477,images/CarSpec/X50/X50-F.png,https://www.proton.com/en/models/protonx50,90
+44,Proton,X70 TGDI Standard 2WD,98800,SUV,3,5,515,3,60,3,"3 Cylinders In-Line, 12 Valve DOHC, TGDi",1477,images/CarSpec/X70/X70.png,https://www.proton.com/en/models/protonx70,90
+45,Proton,X70 TGDI Executive 2WD,110800,SUV,3,5,515,3,60,3,"3 Cylinders In-Line, 12 Valve DOHC, TGDi",1477,images/CarSpec/X70/X70.png,https://www.proton.com/en/models/protonx70,90
+46,Proton,X70 TGDI Executive AWD,116800,SUV,3,5,515,3,60,3,"3 Cylinders In-Line, 12 Valve DOHC, TGDi",1477,images/CarSpec/X70/X70.png,https://www.proton.com/en/models/protonx70,90
+47,Proton,X70 TGDI Premium 2WD,123800,SUV,3,5,515,3,60,3,"3 Cylinders In-Line, 12 Valve DOHC, TGDi",1477,images/CarSpec/X70/X70.png,https://www.proton.com/en/models/protonx70,90
+48,Proton,X70 TGDI Premium X 2WD,126800,SUV,3,5,515,3,60,3,"3 Cylinders In-Line, 12 Valve DOHC, TGDi",1477,images/CarSpec/X70/X70.png,https://www.proton.com/en/models/protonx70,90
+49,Proton,X70 TGDI Premium 2WD,128800,SUV,3,5,515,3,60,3,"4 Cylinders In-Line, 16 Valve DOHC, TGDi",1799,images/CarSpec/X70/X70.png,https://www.proton.com/en/models/protonx70,279.6
+50,Proton,X90 TGDI BSG Standard,123800,SUV,3,7,257,1,60,3,"3 Cylinders In-Line, 12 Valve DOHC, TGDi with 48V Electric Motor Synergy System",1477,images/CarSpec/X90/X90.png,https://www.proton.com/en/models/protonx90,90
+51,Proton,X90 TGDI BSG Executive,130800,SUV,3,7,257,1,60,3,"3 Cylinders In-Line, 12 Valve DOHC, TGDi with 48V Electric Motor Synergy System",1477,images/CarSpec/X90/X90.png,https://www.proton.com/en/models/protonx90,90
+52,Proton,X90 TGDI BSG Premium,144800,SUV,3,7,257,1,60,3,"3 Cylinders In-Line, 12 Valve DOHC, TGDi with 48V Electric Motor Synergy System",1477,images/CarSpec/X90/X90.png,https://www.proton.com/en/models/protonx90,90
+53,Proton,X90 TGDI BSG Flagship,152800,SUV,3,6,257,1,60,3,"3 Cylinders In-Line, 12 Valve DOHC, TGDi with 48V Electric Motor Synergy System",1477,images/CarSpec/X90/X90.png,https://www.proton.com/en/models/protonx90,90
+54,Honda,City S,84900,Sedan,2,5,506,3,40,2,"4 Cylinder, 16 Valve, DOHC i?VTEC",1498,images/CarSpec/City/City.png,https://www.honda.com.my/model/city,90
+55,Honda,City E,89900,Sedan,2,5,506,3,40,2,"4 Cylinder, 16 Valve, DOHC i?VTEC",1498,images/CarSpec/City/City.png,https://www.honda.com.my/model/city,90
+56,Honda,City V,94900,Sedan,2,5,506,3,40,2,"4 Cylinder, 16 Valve, DOHC i?VTEC",1498,images/CarSpec/City/City.png,https://www.honda.com.my/model/city,90
+57,Honda,City RS,99900,Sedan,2,5,506,3,40,2,"4 Cylinder, 16 Valve, DOHC i?VTEC",1498,images/CarSpec/City/City.png,https://www.honda.com.my/model/city,90
+58,Honda,City e:HEV RS,111900,Sedan,2,5,506,3,40,2,"4 Cylinder, 16 Valve, DOHC i?VTEC (Atkinson Cycle)",1498,images/CarSpec/City/City.png,https://www.honda.com.my/model/city,90
+59,Honda,City Hatchback S,85900,Hatchback,1,5,289,1,40,2,"4 Cylinder, 16 Valve, DOHC i?VTEC",1498,images/CarSpec/City-Hatchback/City-Hatchback.png,https://www.honda.com.my/model/city-hatchback,90
+60,Honda,City Hatchback E,90900,Hatchback,1,5,289,1,40,2,"4 Cylinder, 16 Valve, DOHC i?VTEC",1498,images/CarSpec/City-Hatchback/City-Hatchback.png,https://www.honda.com.my/model/city-hatchback,90
+61,Honda,City Hatchback V,95900,Hatchback,1,5,289,1,40,2,"4 Cylinder, 16 Valve, DOHC i?VTEC",1498,images/CarSpec/City-Hatchback/City-Hatchback.png,https://www.honda.com.my/model/city-hatchback,90
+62,Honda,City Hatchback RS,100900,Hatchback,1,5,289,1,40,2,"4 Cylinder, 16 Valve, DOHC i?VTEC",1498,images/CarSpec/City-Hatchback/City-Hatchback.png,https://www.honda.com.my/model/city-hatchback,90
+63,Honda,City Hatchback e:HEV RS,112900,Hatchback,1,5,289,1,40,2,"4 Cylinder, 16 Valve, DOHC i?VTEC (Atkinson Cycle)",1498,images/CarSpec/City-Hatchback/City-Hatchback.png,https://www.honda.com.my/model/city-hatchback,90
+64,Honda,Civic E,131900,Sedan,2,5,497,2,47,2,"4 Cylinder, 16 Valve, DOHC VTEC TURBO",1498,images/CarSpec/Civic/Civic.png,https://www.honda.com.my/model/civic,90
+65,Honda,Civic V,144900,Sedan,2,5,497,2,47,2,"4 Cylinder, 16 Valve, DOHC VTEC TURBO",1498,images/CarSpec/Civic/Civic.png,https://www.honda.com.my/model/civic,90
+66,Honda,Civic RS,151900,Sedan,2,5,497,2,47,2,"4 Cylinder, 16 Valve, DOHC VTEC TURBO",1498,images/CarSpec/Civic/Civic.png,https://www.honda.com.my/model/civic,90
+67,Honda,Civic e:HEV RS,167900,Sedan,2,5,497,2,47,2,"4 Cylinder, 16 Valve, DOHC (Atkinson Cycle)",1993,images/CarSpec/Civic/Civic.png,https://www.honda.com.my/model/civic,376.5
+68,Honda,CR-V S,159900,SUV,3,5,635,3,57,3,"4 Cylinder, 16 Valve, DOHC VTEC TURBO",1498,images/CarSpec/CRV/CRV.png,https://www.honda.com.my/model/crv,90
+69,Honda,CR-V E,169900,SUV,3,5,635,3,57,3,"4 Cylinder, 16 Valve, DOHC VTEC TURBO",1498,images/CarSpec/CRV/CRV.png,https://www.honda.com.my/model/crv,90
+70,Honda,CR-V V,181900,SUV,3,5,635,3,57,3,"4 Cylinder, 16 Valve, DOHC VTEC TURBO",1498,images/CarSpec/CRV/CRV.png,https://www.honda.com.my/model/crv,90
+71,Honda,CR-V e:HEV RS,195900,SUV,3,5,635,3,57,3,"4 Cylinder, 16 Valve, DOHC i?VTEC (Atkinson Cycle)",1993,images/CarSpec/CRV/CRV.png,https://www.honda.com.my/model/crv,376.5
+72,Honda,HR-V S,115900,SUV,3,5,335,2,50,3,"4 Cylinder, 16 Valve, DOHC i?VTEC",1498,images/CarSpec/HRV/HRV.png,https://www.honda.com.my/model/hrv,90
+73,Honda,HR-V T E,130900,SUV,3,5,335,2,50,3,"4 Cylinder, 16 Valve, DOHC VTEC TURBO",1498,images/CarSpec/HRV/HRV.png,https://www.honda.com.my/model/hrv,90
+74,Honda,HR-V T V,135900,SUV,3,5,335,2,50,3,"4 Cylinder, 16 Valve, DOHC VTEC TURBO",1498,images/CarSpec/HRV/HRV.png,https://www.honda.com.my/model/hrv,90
+75,Honda,HR-V e:HEV RS,141900,SUV,3,5,335,2,50,3,"4 Cylinder, 16 Valve, DOHC i?VTEC (Atkinson Cycle)",1498,images/CarSpec/HRV/HRV.png,https://www.honda.com.my/model/hrv,90
+76,Honda,WR-V S,89900,SUV,3,5,380,2,40,2,"4 Cylinder, 16 Valve, DOHC i?VTEC",1498,images/CarSpec/WRV/WRV.png,https://www.honda.com.my/model/wr-v,90
+77,Honda,WR-V E,95900,SUV,3,5,380,2,40,2,"4 Cylinder, 16 Valve, DOHC i?VTEC",1498,images/CarSpec/WRV/WRV.png,https://www.honda.com.my/model/wr-v,90
+78,Honda,WR-V V,99900,SUV,3,5,380,2,40,2,"4 Cylinder, 16 Valve, DOHC i?VTEC",1498,images/CarSpec/WRV/WRV.png,https://www.honda.com.my/model/wr-v,90
+79,Honda,WR-V RS,107900,SUV,3,5,380,2,40,2,"4 Cylinder, 16 Valve, DOHC i?VTEC",1498,images/CarSpec/WRV/WRV.png,https://www.honda.com.my/model/wr-v,90
+80,Honda,2023 Type R,399900,Sedan,2,5,410,2,50,3,"4 Cylinder, 16 Valve, DOHC VTEC TURBO",1996,images/CarSpec/Type-R/Type-R.png,https://www.honda.com.my/model/type-r,378
+81,Toyota,Yaris E AT,88000,Hatchback,1,5,286,1,42,2,"4-cylinder, In-line, 16-valve, DOHC with Dual VVT-i",1496,images/CarSpec/Yaris/Yaris.png,https://www.toyota.com.my/en/models/yaris.html,90
+82,Toyota,Yaris G AT,91600,Hatchback,1,5,286,1,42,2,"4-cylinder, In-line, 16-valve, DOHC with Dual VVT-i",1496,images/CarSpec/Yaris/Yaris-G.png,https://www.toyota.com.my/en/models/yaris.html,90
+83,Toyota,Vios E AT,89600,Hatchback,1,5,475,2,40,2,"4-cylinder, In-line, 16-valve, DOHC with Dual VVT-i",1496,images/CarSpec/Vios/Vios-E.png,https://www.toyota.com.my/en/models/vios.html,90
+84,Toyota,Vios G AT,95500,Hatchback,1,5,475,2,40,2,"4-cylinder, In-line, 16-valve, DOHC with Dual VVT-i",1496,images/CarSpec/Vios/Vios-G.png,https://www.toyota.com.my/en/models/vios.html,90
+85,Toyota,Harrier Luxury SE,277000,SUV,3,5,396,2,55,3,"16-Valve DOHC, VVT-iE (Intake) & VVT-i (Exhaust)",1987,images/CarSpec/Harrier/Harrier-SE.png,https://www.toyota.com.my/en/models/harrier.html,373.5
+86,Toyota,Harrier Luxury,274000,SUV,3,5,396,2,55,3,"16-Valve DOHC, VVT-iE (Intake) & VVT-i (Exhaust)",1987,images/CarSpec/Harrier/Harrier.png,https://www.toyota.com.my/en/models/harrier.html,373.5
+87,Toyota,Fortuner VRZ AT 4WD,236880,SUV,3,7,200,1,80,3,"4-cylinder, In-line, 16V, DOHC Intercooler VNT Diesel",2755,images/CarSpec/Fortuner/Fortuner-VRZ.png,https://www.toyota.com.my/en/models/fortuner.html,1517.5
+88,Toyota,Fortuner SRZ AT 4WD,197880,SUV,3,7,200,1,80,3,"4-cylinder, In-line, 16V, DOHC Dual VVT-i Petrol",2694,images/CarSpec/Fortuner/Fortuner-SRZ.png,https://www.toyota.com.my/en/models/fortuner.html,1365
+89,Toyota,Fortuner AT 4WD,195880,SUV,3,7,200,1,80,3,"4-cylinder, In-line, 16V, DOHC Intercooler VNT Diesel",2393,images/CarSpec/Fortuner/Fortuner.png,https://www.toyota.com.my/en/models/fortuner.html,773
+90,Toyota,Camry V AT,219800,Sedan,2,5,524,3,60,3,"4-cylinder, In-line, 16V, DOHC with VVT-iE (Intake) and VVT-i (Exhaust)",2487,images/CarSpec/Camry/Camry.png,https://www.toyota.com.my/en/models/camry.html,867
+91,Toyota,Veloz AT,95000,MPV,4,7,498,2,43,2,"4-cylinder, In-line, 16-valve, DOHC with Dual VVT-i",1496,images/CarSpec/Veloz/Veloz.png,https://www.toyota.com.my/en/models/veloz.html,90
+92,Toyota,Innova X AT,146880,MPV,4,7,300,2,55,3,"4-cylinder, In-line, 16-valve, DOHC with Dual VVT-i",1998,images/CarSpec/Innova/Innova-X.png,https://www.toyota.com.my/en/models/innova.html,379
+93,Toyota,Innova G AT,138880,MPV,4,7,300,2,55,3,"4-cylinder, In-line, 16-valve, DOHC with Dual VVT-i",1998,images/CarSpec/Innova/Innova.png,https://www.toyota.com.my/en/models/innova.html,379
+94,Toyota,Corolla E,139800,Sedan,2,5,333,2,50,3,"4-cylinder, In-line, 16-valve DOHC with Dual VVT-i",1798,images/CarSpec/Corolla/Corolla-E.png,https://www.toyota.com.my/en/models/corolla.html,279.2
+95,Toyota,Corolla G,147800,Sedan,2,5,333,2,50,3,"4-cylinder, In-line, 16-valve DOHC with Dual VVT-i",1798,images/CarSpec/Corolla/Corolla-G.png,https://www.toyota.com.my/en/models/corolla.html,279.2
+96,Toyota,Corolla Cross G AT,130900,SUV,3,5,433,2,47,2,"4-cylinder, In-line, 16-valve DOHC with Dual VVT-i",1798,images/CarSpec/Corolla-Cross/Corolla-Cross-G.png,https://www.toyota.com.my/en/models/corolla-cross.html,279.2
+97,Toyota,Corolla Cross V AT,137900,SUV,3,5,433,2,47,2,"4-cylinder, In-line, 16-valve DOHC with Dual VVT-i",1798,images/CarSpec/Corolla-Cross/Corolla-Cross-V.png,https://www.toyota.com.my/en/models/corolla-cross.html,279.2
+98,Toyota,Corolla Cross Hybrid Electric,143000,SUV,3,5,433,2,36,1,"4-cylinder, In-line, 16-Valve DOHC with VVT-i",1798,images/CarSpec/Corolla-Cross/Corolla-Cross-Hybrid.png,https://www.toyota.com.my/en/models/corolla-cross.html,279.2
